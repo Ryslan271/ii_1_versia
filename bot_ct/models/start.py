@@ -1,6 +1,6 @@
 import telebot
 
-bot = telebot.TeleBot('853656809:AAFcImI2UB3jG7x4ATKfyZ5ZNdNGtLYRJw0')
+bot = telebot.TeleBot('1216383514:AAHhVKDOSrIYnJkqLnNWt7sw15AKcMsMBBE')
 
 mat = ['сука', 'блять', 'иди нахуй', 'хуй', 'епта', 'пизда', 'афигеть', 'фиг', 'хер', 'писюн', 'пенис', 'бля',
        'блядь', 'блядина', 'иди на хер', 'пошел на хуй', 'пошел в пизду', 'пошел на хер']
